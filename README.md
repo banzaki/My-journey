@@ -8,6 +8,8 @@ I build practical web applications, AI-powered experiences, and automation tools
 
 ### [Stoic Oracle](https://github.com/banzaki/stoic-oracle) — AI conversations grounded in original texts
 
+[![Stoic Oracle CI](https://github.com/banzaki/stoic-oracle/actions/workflows/ci.yml/badge.svg)](https://github.com/banzaki/stoic-oracle/actions/workflows/ci.yml)
+
 [Try the live application](https://stoic-oracle-eosin.vercel.app)
 
 An interactive experience with portrayals of Marcus Aurelius, Seneca, and Epictetus. It combines text retrieval, source-linked responses, quotation verification, and multiple AI personas.
@@ -28,9 +30,15 @@ These repositories are currently private; the summaries describe areas of work r
 
 | Project | Focus | Engineering topics |
 | --- | --- | --- |
-| WARZIL | Multiplayer strategy game | React, Cloudflare Workers, Durable Objects, authoritative game state, simulated AI matches |
+| WARZIL ([live game](https://warzil.com.br)) | Multiplayer strategy game | React, Cloudflare Workers, Durable Objects, authoritative game state, simulated AI matches |
 | Job Sniper | Opportunity discovery and alerts | Node.js, SQLite, source adapters, deduplication, retries, Telegram notifications |
 | SMM Control Center | Local project portfolio management | Native Node.js, state transitions, persistence, validation and automated tests |
+
+## Demonstrations and code
+
+- **[Stoic Oracle — live](https://stoic-oracle-eosin.vercel.app):** a public, inspectable codebase with technical documentation and CI.
+- **[WARZIL — live](https://warzil.com.br):** a playable deployment; its source repository remains private while the Git history and operational assets are reviewed for safe publication.
+- **Job Sniper:** backend automation case study prepared internally; source and operational documentation are private pending review.
 
 ## How I approach development
 
